@@ -21,6 +21,17 @@ email: your-email@domain.com # your email
 phone: (496)-169-6557 # your pnone number
 website: https://dwayne.example.com # you website
 
+dynamic-typing: True
+shuffle: True # Shuffle the lines.
+loop: True
+loop-count: False # Set False for infinite loop, or set any number for finite loop.
+type-speed: 10
+start-delay: 200
+delete-delay: 5000
+lines: # You can add HTML Tags in the Text
+  - text: "亲爱的宝贝，请伸出你神奇的手指"
+  - text: "戳我一下！
+
 # Social link
 google_url:    # add url link
 twitter_url:   # add url link
